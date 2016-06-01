@@ -1,0 +1,14 @@
+package ejem02_Clover;
+
+public class ClaseAplicacion {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a=24;
+		if (a>90)
+			System.out.println("a es mayor que 90");
+		else
+			System.out.println("a no es mayor que 90");
+	}
+
+}
